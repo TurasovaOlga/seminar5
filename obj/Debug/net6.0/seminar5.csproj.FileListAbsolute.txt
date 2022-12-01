@@ -1,0 +1,15 @@
+/home/oem/Desktop/seminar5/obj/Debug/net6.0/seminar5.csproj.AssemblyReference.cache
+/home/oem/Desktop/seminar5/obj/Debug/net6.0/seminar5.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/Desktop/seminar5/obj/Debug/net6.0/seminar5.AssemblyInfoInputs.cache
+/home/oem/Desktop/seminar5/obj/Debug/net6.0/seminar5.AssemblyInfo.cs
+/home/oem/Desktop/seminar5/obj/Debug/net6.0/seminar5.csproj.CoreCompileInputs.cache
+/home/oem/Desktop/seminar5/bin/Debug/net6.0/seminar5
+/home/oem/Desktop/seminar5/bin/Debug/net6.0/seminar5.deps.json
+/home/oem/Desktop/seminar5/bin/Debug/net6.0/seminar5.runtimeconfig.json
+/home/oem/Desktop/seminar5/bin/Debug/net6.0/seminar5.dll
+/home/oem/Desktop/seminar5/bin/Debug/net6.0/ref/seminar5.dll
+/home/oem/Desktop/seminar5/bin/Debug/net6.0/seminar5.pdb
+/home/oem/Desktop/seminar5/obj/Debug/net6.0/seminar5.dll
+/home/oem/Desktop/seminar5/obj/Debug/net6.0/ref/seminar5.dll
+/home/oem/Desktop/seminar5/obj/Debug/net6.0/seminar5.pdb
+/home/oem/Desktop/seminar5/obj/Debug/net6.0/seminar5.genruntimeconfig.cache
